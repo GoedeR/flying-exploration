@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/19 16:13:35.000.392,=C:\Users\RGOEDE\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2021/10/19 16:13:35.000.824,=C:\Users\RGOEDE\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2021/10/19 16:55:16.000.751,C:\Users\RGOEDE\Desktop\tellespeo2\tellespeo\Unit1.cpp=C:\Users\RGOEDE\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2021/10/19 16:55:16.000.751,C:\Users\RGOEDE\Desktop\tellespeo2\tellespeo\Unit1.dfm=C:\Users\RGOEDE\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2021/10/19 16:55:16.000.751,C:\Users\RGOEDE\Desktop\tellespeo2\tellespeo\Unit1.h=C:\Users\RGOEDE\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
+    <Transaction>2021/10/19 16:55:24.000.114,C:\Users\RGOEDE\Desktop\tellespeo2\tellespeo\Project1PCH1.h=C:\Users\RGOEDE\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2021/10/19 16:55:25.000.137,C:\Users\RGOEDE\Desktop\tellespeo2\tellespeo\Project1.cbproj=C:\Users\RGOEDE\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
